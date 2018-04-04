@@ -1,0 +1,7 @@
+url: jdbc:mysql://127.0.0.1:3306/
+table: sometable
+userName: root
+password: qwerty
+worlds:
+  - world
+  - world_nether

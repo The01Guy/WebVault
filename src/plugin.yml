@@ -1,0 +1,9 @@
+name: WebVault
+main: guy.sinfulgaming.webvault.WebVault
+author: Guy
+version: 0.1.0
+commands:
+  webvault:
+    usage: /<command> [args]
+  wv:
+    usage: /<command> [args]
